@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://naa5757.github.io/csb-tru3iw/static/css/main.fcd3cfe6.chunk.css",
+    "main.js": "https://naa5757.github.io/csb-tru3iw/static/js/main.3bd945a6.chunk.js",
+    "main.js.map": "https://naa5757.github.io/csb-tru3iw/static/js/main.3bd945a6.chunk.js.map",
+    "runtime-main.js": "https://naa5757.github.io/csb-tru3iw/static/js/runtime-main.7b77009a.js",
+    "runtime-main.js.map": "https://naa5757.github.io/csb-tru3iw/static/js/runtime-main.7b77009a.js.map",
+    "static/js/2.5016e39d.chunk.js": "https://naa5757.github.io/csb-tru3iw/static/js/2.5016e39d.chunk.js",
+    "static/js/2.5016e39d.chunk.js.map": "https://naa5757.github.io/csb-tru3iw/static/js/2.5016e39d.chunk.js.map",
+    "index.html": "https://naa5757.github.io/csb-tru3iw/index.html",
+    "static/css/main.fcd3cfe6.chunk.css.map": "https://naa5757.github.io/csb-tru3iw/static/css/main.fcd3cfe6.chunk.css.map",
+    "static/js/2.5016e39d.chunk.js.LICENSE.txt": "https://naa5757.github.io/csb-tru3iw/static/js/2.5016e39d.chunk.js.LICENSE.txt",
+    "static/media/1.e21701da.jpg": "https://naa5757.github.io/csb-tru3iw/static/media/1.e21701da.jpg",
+    "static/media/Resume.2f48a5af.pdf": "https://naa5757.github.io/csb-tru3iw/static/media/Resume.2f48a5af.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b77009a.js",
+    "static/js/2.5016e39d.chunk.js",
+    "static/css/main.fcd3cfe6.chunk.css",
+    "static/js/main.3bd945a6.chunk.js"
+  ]
+}
